@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuestionPaperGenerator</string>
+    <string name="save">Save Info</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="generate">Generate Question Paper</string>
+    <string name="push">Push the Questions</string>
+    <string name="QS">Enter your Question here...</string>
+</resources>
+
